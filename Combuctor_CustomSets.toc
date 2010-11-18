@@ -1,0 +1,14 @@
+## Interface: 40000
+## Title: Combuctor: Custom Sets
+## Author: Sentri
+## Version: 0.4
+## Notes: Custom sets for Combuctor
+## Dependencies: Combuctor
+## OptionalDeps: Combuctor_Sets
+## SavedVariables: CustomSetsDB
+
+Libs\LibItemSearch-1.0\LibItemSearch-1.0.lua
+
+Locale\enUS.lua
+
+customsets.lua
